@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @triasa5
 - 👀 I’m interested in Coding, Software development, Web development
-- 🌱 I’m currently doing Bachelors in Computer Science and Engineering from St. Thomas' College of College of Engineering and Technology
+- 🌱 I’m currently doing Bachelors in Computer Science and Engineering from St. Thomas' College of College of Engineering and Technology, West Bengal, India
 - 📫 How to reach me triyasam989@gmail.com
 
 <!---
