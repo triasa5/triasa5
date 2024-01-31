@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @triasa5
-- 👀 I’m interested in Coding, Machine Learning, Graphic Design
-- 🌱 I’m currently doing Bachelors in Computer Science and Engineering from St. Thomas' College of College of Engineering and Technology, West Bengal, India
+- 👀 I’m interested in Coding, Cloud Computing, Data Analytics
+- 🌱 I’m a recent graduate in Computer Science and Engineering from St. Thomas' College of College of Engineering and Technology, West Bengal, India
 - 📫 How to reach me triyasam989@gmail.com
 - ⚡ Fun fact: The meaning of my name is 3 wishes. But where's the Gene?
 <!---
